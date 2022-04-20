@@ -5,9 +5,9 @@ _I'm a bad asf with coding, nothing really interesting here but my dumb projects
 ```C++
 #include <iostream>
 
-void HI(void){
+int main(void){
     std::cout << "Hello! << endl;
-    return;
+    return 0;
 }
 ```
 
